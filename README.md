@@ -10,3 +10,5 @@ The main.py file contains a simple function which returns the multiplication of 
 
 The snapshot of the different versions is as follows:
 
+## 🏆 Passing all the tests
+![Screenshot of passing tests](Desktop/all_checks_passed.png)
