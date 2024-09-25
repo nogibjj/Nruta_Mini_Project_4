@@ -8,7 +8,5 @@
 Here, I have used 5 different Python version to test across, namely 3.7, 3.8, 3.9, 3,10, 3.11.
 The main.py file contains a simple function which returns the multiplication of the two numbers inputted into it
 
-The snapshot of the different versions is as follows:
-
 ## 🏆 Passing all the tests
-![Screenshot of passing tests](Desktop/all_checks_passed.png)
+<img width="343" alt="all_checks_passed" src="https://github.com/user-attachments/assets/339682d6-9484-491a-918a-1f081b3fed2a">
