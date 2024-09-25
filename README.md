@@ -1,3 +1,5 @@
+[![CI CD](https://github.com/nogibjj/Nruta_Mini_Project_4/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Nruta_Mini_Project_4/actions/workflows/cicd.yml)
+
 # IDS 706 Week 4 Mini Project - Github Actions Matrix Build for Multiple Python Versions
 
 ## 🏗️ Requirements
